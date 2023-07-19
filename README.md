@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanushri Goel</h1>
-<h3 align="center">A future front-end developer and a data science and AI, ML student</h3>
+<h3 align="center">A future front-end developer, a data science and AI/ML student</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
