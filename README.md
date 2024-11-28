@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/tanushrigoel](https://www.github.com/tanushrigoel)
 
-- 📫 How to reach me **tanushri56@outlook.com**
+- 📫 How to reach me **tanu26goel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
